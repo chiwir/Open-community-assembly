@@ -15,7 +15,8 @@ The code starts by importing necessary packages:
 
 **warnings** is a built-in package that can be used to suppress warnings in the code.
 
-Using a discretised Lotka-Volterra equation\\
+Using a discretised Lotka-Volterra equation
+
 $$ N_{i,t+1} = Poisson (\lambda_t)/J$$
 $$\lambda_t =J.N_{i,t}exp(r(x_i) - \sum_{j \in S_t} \alpha_{ij}N_{j,t})$$
 
