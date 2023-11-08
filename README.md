@@ -1,5 +1,8 @@
 # Open-community-assembly
 
+### Code for: A richness estimator for non-equilibrial open communities facing constant biological invasions <br />
+### By, Precious Chiwira, Pietro Landi, Cang Hui <br />
+
 The code starts by importing necessary packages:
 **numpy** is a package for scientific computing with arrays.
 
